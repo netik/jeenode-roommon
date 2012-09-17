@@ -20,7 +20,7 @@ import time
 SERIAL_PORT="/dev/tty.usbserial-FTFAYG4O"
 BAUD=57600
 # if you set this to your email addres, you'll get a mail when motion occurs
-#EMAIL="4154253551@text.att.net"
+#EMAIL="xxxxxxxxxx@text.att.net"
 DEBUG=False
 
 # If we alarm, do not alarm again for these many seconds
